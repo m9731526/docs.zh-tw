@@ -50,7 +50,7 @@ ms.lasthandoff: 03/13/2017
   
  [!code-cs[csProgGuideExtensionMethods#4](../../../csharp/programming-guide/classes-and-structs/codesnippet/CSharp/extension-methods_2.cs)]  
   
- 使用這個 `WordCount` 指示詞就可以將 `using` 擴充方法帶入範圍中：  
+ 使用這個 `using` 指示詞就可以將 `WordCount` 擴充方法帶入範圍中：  
   
 ```  
 using ExtensionMethods;  
